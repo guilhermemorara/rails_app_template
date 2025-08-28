@@ -25,6 +25,7 @@ development:
   <<: *default
   host: 127.0.0.1
   database: template_app
+  port: 5432
 
   # The specified database role being used to connect to PostgreSQL.
   # To create additional roles in PostgreSQL see `$ createuser --help`.
